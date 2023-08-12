@@ -1,1 +1,1 @@
-This is ReadMe file for C language project
+This is ReadMe for 0x01 C Tasks
