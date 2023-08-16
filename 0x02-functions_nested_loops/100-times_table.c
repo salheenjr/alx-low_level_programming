@@ -7,7 +7,7 @@
  *
  * Return: 0 (success)
 */
-int print_times_table(int n)
+void print_times_table(int n)
 {
 	int i, j, res;
 
