@@ -17,7 +17,7 @@ int main(void)
 	for (n = 0; n < 50; n++)
 	{
 		result = fleb1 + fleb2;
-		printf("%d", result);
+		printf("%ld", result);
 		fleb1 = fleb2;
 		fleb2 = result;
 
