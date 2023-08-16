@@ -32,6 +32,7 @@ void print_times_table(int n)
 				else if (res < 10 && j != 0)
 				{
 					_putchar(' ');
+					_putchar(' ');
 					_putchar((res % 10) + '0');
 				}
 				else
